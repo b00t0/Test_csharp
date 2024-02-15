@@ -1,0 +1,14 @@
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/bin/Debug/net8.0/Task1_test
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/bin/Debug/net8.0/Task1_test.deps.json
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/bin/Debug/net8.0/Task1_test.runtimeconfig.json
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/bin/Debug/net8.0/Task1_test.dll
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/bin/Debug/net8.0/Task1_test.pdb
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/Task1_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/Task1_test.AssemblyInfoInputs.cache
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/Task1_test.AssemblyInfo.cs
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/Task1_test.csproj.CoreCompileInputs.cache
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/Task1_test.dll
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/refint/Task1_test.dll
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/Task1_test.pdb
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/Task1_test.genruntimeconfig.cache
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/test_csharp/Task1_test/obj/Debug/net8.0/ref/Task1_test.dll
